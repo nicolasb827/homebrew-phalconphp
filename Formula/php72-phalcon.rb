@@ -4,8 +4,8 @@ class Php72Phalcon < AbstractPhp72Extension
   init
   desc "Full-stack PHP framework"
   homepage "https://phalconphp.com/"
-  url "https://github.com/phalcon/cphalcon/archive/v3.4.2.zip"
-  sha256 "be73da92f75609aef8a56dd7d906df559fa6de82fbc2668b74aba125389a0d93"
+  url "https://github.com/phalcon/cphalcon/archive/v3.4.4.zip"
+  sha256 "c47d300b539d428230a7e73dbd48587bf0818ea07973621080b0af78e94c4fe1"
   head "https://github.com/phalcon/cphalcon.git"
 
   depends_on "pcre"
