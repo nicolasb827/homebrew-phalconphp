@@ -5,7 +5,7 @@ class Php72Phalcon < AbstractPhp72Extension
   desc "Full-stack PHP framework"
   homepage "https://phalconphp.com/"
   url "https://github.com/phalcon/cphalcon/archive/v3.4.5.zip"
-  sha256 "7d65b90675dc5963829be88671d8ca0e3862eba08cc88f458ce87907fbea3e72"
+  sha256 "3be111f979f027d0be7580406e37c74f50c429563dd734928d4ed699d83e9e2e"
   head "https://github.com/phalcon/cphalcon.git"
 
   depends_on "pcre"
