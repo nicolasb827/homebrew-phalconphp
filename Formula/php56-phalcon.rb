@@ -4,8 +4,8 @@ class Php56Phalcon < AbstractPhp56Extension
   init
   desc "Full-stack PHP framework"
   homepage "https://phalconphp.com/"
-  url "https://github.com/phalcon/cphalcon/archive/v3.4.4.zip"
-  sha256 "c47d300b539d428230a7e73dbd48587bf0818ea07973621080b0af78e94c4fe1"
+  url "https://github.com/phalcon/cphalcon/archive/v3.4.5.zip"
+  sha256 "7d65b90675dc5963829be88671d8ca0e3862eba08cc88f458ce87907fbea3e72"
   head "https://github.com/phalcon/cphalcon.git"
 
   depends_on "pcre"
